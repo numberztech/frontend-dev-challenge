@@ -20,7 +20,7 @@ Your mission, should you choose to accept it, is to come up with a frontend that
 
 Submission
 -------------
-Once done, please drop us an email on tech.jobs@numberz.in with a Github link to your submission. Do include your contact details & resume in the email, and we will get in touch once we've evaluated the submission.
+Once done, please drop us an email on tech-jobs@numberz.in with a Github link to your submission. Do include your contact details & resume in the email, and we will get in touch once we've evaluated the submission.
 
 Ground Rules
 ----------------
