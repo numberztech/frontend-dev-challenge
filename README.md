@@ -30,5 +30,5 @@ Evaluation Criteria
 ---------------------
 * Proficiency on our frontend stack - primarily React, but we also use Redux, Recompose, Apollo, etc.
 * Code hygiene factors such as modularity, readability, reusability, etc.
-* An eye for good UX decisions
+* An eye for good UX decisions (hint: keep a use case & user persona in mind for whatever you build)
 * Approach towards testing your code
