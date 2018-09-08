@@ -12,11 +12,11 @@ The numberz team
 
 Overview
 -----------
-The challenge has been kept open-ended to give you some room to exercise your creativity both in terms of “what” you create & “how” you build it.
+The challenge has been kept open-ended to give you some room to exercise your creativity both in terms of _what_ you create & _how_ you build it.
 
 The good folks at [SWAPI](https://swapi.co/) have done a great job of cataloging a lot of data associated with the Star Wars universe into a simple REST API. You can find the docs to the API [here](https://swapi.co/documentation).
 
-Your mission, should you choose to accept it, is to come up with a frontend that uses the above API and displays the data in an organised way. Do consider making the experience user-friendly, by using UI controls for tasks such as sorting, filtering, etc.
+Your mission, should you choose to accept it, is to come up with a frontend that uses the above API & presents the data in a way that enables a specific use-case. You can choose any subset of the available data that's relevant to the intended purpose of your solution and make it available to the user in a meaningful way.
 
 Submission
 -------------
@@ -30,5 +30,5 @@ Evaluation Criteria
 ---------------------
 * Proficiency on our frontend stack - primarily React, but we also use Redux, Recompose, Apollo, etc.
 * Code hygiene factors such as modularity, readability, reusability, etc.
-* An eye for good UX decisions (hint: keep a use case & user persona in mind for whatever you build)
+* An eye for good UX decisions (always keep a use case & user persona in mind for whatever you build)
 * Approach towards testing your code
